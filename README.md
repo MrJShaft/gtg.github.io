@@ -461,7 +461,7 @@
     </div>
 
     <script>
-        let webhookUrl = localStorage.getItem('app_script_webhook') || '';
+        let webhookUrl = localStorage.getItem(https://script.google.com/macros/s/AKfycbws-knZ8Lh3LJdRHxXGBhQLUMfsO--wSCxWYq-7cB2MH0o1qIeVaO75GyNm1htiWIc/exec) || '';
 
         document.addEventListener('DOMContentLoaded', () => {
             if (webhookUrl) {
